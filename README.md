@@ -40,5 +40,11 @@ Estudante de Sistemas de Informação focado em qualidade de software, automaç�
 * **Racha.ai**: Aplicação Web focada na gestão e divisão inteligente de despesas coletivas, simplificando o acerto de contas em grupos.
 ---
 
+## 🏆 Conquistas & Publicações
+
+* **Best Paper Award (2025)** — *AgNose: A Framework-Agnostic Test Smell Detection Tool*. Publicado nos Anais do XII Encontro Nacional de Computação dos Institutos Federais (ENCompIF). [Acesse o artigo aqui](https://sol.sbc.org.br/index.php/encompif/article/view/36481).
+
+---
+
 ## 📫 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-o-luiz/)
