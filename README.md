@@ -1,6 +1,6 @@
 # Olá, eu sou André! 👋
 
-### QA Engineer & Fullstack Developer
+### QA Engineer & Backend Developer
 Estudante de Sistemas de Informação focado em qualidade de software, automação e arquitetura. Atualmente desenvolvendo soluções de análise de código e sistemas web.
 
 ---
