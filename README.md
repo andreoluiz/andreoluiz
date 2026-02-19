@@ -35,9 +35,9 @@ Estudante de Sistemas de Informação focado em qualidade de software, automaç�
 
 ## 🚀 Principais Projetos
 
-* **AgNose**: Ferramenta de detecção de *test smell* independente de framework de software. Atualmente oferece suporte para **Java, Python e JavaScript**, auxiliando na manutenção da qualidade de suítes de teste.
+* [**AgNose**](https://github.com/andreoluiz/agnose): Ferramenta de detecção de *test smell* independente de framework de software. Atualmente oferece suporte para **Java, Python e JavaScript**, auxiliando na manutenção da qualidade de suítes de teste.
+  * 🏆 **Premiado como [Best Paper](https://sol.sbc.org.br/index.php/encompif/article/view/36481)**
 * **Racha.ai**: Aplicação Web focada na gestão e divisão inteligente de despesas coletivas, simplificando o acerto de contas em grupos.
-* 
 ---
 
 ## 📫 Conecte-se comigo
