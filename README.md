@@ -7,10 +7,8 @@ Estudante de Sistemas de Informação focado em qualidade de software, automaç�
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=andreoluiz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=andreoluiz&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andreoluiz&theme=dark" alt="Streak Stats" height="150" />
+
 
 ---
 
